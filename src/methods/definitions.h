@@ -1,0 +1,7 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define DEBUG
+#define ITERATIONS_LIMIT (10000)
+
+#endif // DEFINITIONS_H
